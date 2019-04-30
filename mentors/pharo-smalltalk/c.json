@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "github_username": "bencoman",
+    "name": "Benjamin Coman",
+    "link_text": "openInWorld blog",
+    "link_url": "https://blog.openInWorld.com",
+    "avatar_url": null,
+    "bio": "I love hearing newcomers say 'Pharo has made programming fun again.'"
+  }
+]
